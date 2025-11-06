@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Danau Biru",
+    "location": "Bandung, Jawa Barat",
+    "price": "Rp50.000 / jam",
+    "rating": 4.8,
+    "image": "/images/danau-biru.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pemancingan Lestari",
+    "location": "Bogor, Jawa Barat",
+    "price": "Rp40.000 / jam",
+    "rating": 4.6,
+    "image": "/images/lestari.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kolam Mina Bahari",
+    "location": "Yogyakarta",
+    "price": "Rp60.000 / jam",
+    "rating": 4.9,
+    "image": "/images/mina-bahari.jpg"
+  }
+]

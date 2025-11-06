@@ -1,0 +1,35 @@
+[
+    {
+        "id": 101,
+        "title": "Lomba Mancing Malam Nusantara",
+        "date": "2025-08-31",
+        "location": "Pemancingan Cipaku",
+        "price": "Rp150.000",
+        "prize": "Motor Matic",
+        "image": "/images/event-night.jpg",
+        "description": "Ajang lomba mancing bergengsi yang diadakan di malam hari dengan total hadiah jutaan rupiah. Fokus pada tangkapan terberat.",
+        "status": "Daftar Sekarang"
+    },
+    {
+        "id": 102,
+        "title": "Family Fishing Day 2025",
+        "date": "2025-09-15",
+        "location": "Danau Biru",
+        "price": "Rp75.000",
+        "prize": "Voucher Wisata",
+        "image": "/images/event-family.jpg",
+        "description": "Event santai yang cocok untuk keluarga. Ada berbagai hiburan anak-anak dan hadiah menarik untuk kategori anak-anak.",
+        "status": "Segera"
+    },
+    {
+        "id": 103,
+        "title": "Turnamen Ikan Gabus",
+        "date": "2025-10-05",
+        "location": "Situ Umar",
+        "price": "Gratis",
+        "prize": "Uang Tunai Rp5 Juta",
+        "image": "/images/event-gabus.jpg",
+        "description": "Kompetisi khusus untuk para pemburu ikan gabus (snakehead fish). Pendaftaran gratis, siapkan umpan terbaik Anda!",
+        "status": "Daftar Sekarang"
+    }
+]
